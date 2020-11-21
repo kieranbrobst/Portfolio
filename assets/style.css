@@ -1,8 +1,12 @@
+
 nav a {
-    color: hotpink;
+    color: lightcoral;
 }
 a.navbar-brand {
     color: teal;
+}
+a:hover {
+    color: lightgrey;
 }
 
 h6 {
@@ -10,21 +14,41 @@ h6 {
     color: lightcoral;
 }
 
+
 #content {
     margin-top: 50px;
+    padding-bottom: 50px;
 }
-.project1 {
-    background-color: khaki;
+.card {
+    padding: 10px;
+}
+.btn-more {
+    border: 2px solid lightcoral;
+    color: lightcoral;
+}
+.btn-back {
+    border: 2px solid lightgrey;
+    color: lightgrey;
+}
+.project-content {
+    padding-top: 20px;
 }
 
-.project2 {
-    background-color: lavender;
-}
-.project3 {
-    background-color: lightcoral;
-}
 .mycontact {
     padding-top: 50px;
 }
 
+.back {
+    padding-top: 50px;
+    padding-left: 15px;
+
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+}
 
