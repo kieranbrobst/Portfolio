@@ -1,0 +1,30 @@
+nav a {
+    color: hotpink;
+}
+a.navbar-brand {
+    color: teal;
+}
+
+h6 {
+    letter-spacing: 3px;
+    color: lightcoral;
+}
+
+#content {
+    margin-top: 50px;
+}
+.project1 {
+    background-color: khaki;
+}
+
+.project2 {
+    background-color: lavender;
+}
+.project3 {
+    background-color: lightcoral;
+}
+.mycontact {
+    padding-top: 50px;
+}
+
+
